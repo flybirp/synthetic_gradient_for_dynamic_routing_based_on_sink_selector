@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0980bd50-f7ea-4cee-b090-eec23eeac37b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pytorch_custom_dynamic_routing/data/raw/t10k-images-idx3-ubyte" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pytorch_custom_dynamic_routing/data/raw/t10k-labels-idx1-ubyte" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pytorch_custom_dynamic_routing/data/raw/train-images-idx3-ubyte" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pytorch_custom_dynamic_routing/data/raw/train-labels-idx1-ubyte" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pytorch_custom_dynamic_routing/dynamic_routing_net" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pytorch_custom_dynamic_routing/mlp_net" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/CustomDynamicRouting.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pytorch_custom_dynamic_routing/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pytorch_custom_dynamic_routing/data/processed/test.pt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pytorch_custom_dynamic_routing/data/processed/training.pt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pytorch_custom_dynamic_routing/dynamic_routing_net.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pytorch_custom_dynamic_routing/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pytorch_custom_dynamic_routing/main_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pytorch_custom_dynamic_routing/mlp_net.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="CustomDynamicRouting.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pytorch_custom_dynamic_routing/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -49,10 +33,27 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -411,6 +412,14 @@
       <option name="presentableId" value="Default" />
       <updated>1511521645521</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1511522017008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511522017008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -448,6 +457,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -465,6 +478,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
           <folding />
         </state>
       </provider>
